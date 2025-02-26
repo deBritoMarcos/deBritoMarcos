@@ -1,4 +1,14 @@
-## Hi there 👋
+# Hello world! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="34px" height="34px">
+
+I'm **Marcos Brito**, a **Fullstack Developer** passionate about problem-solving, and tecnology. Today I'm specializing in **digital entrepreneurship** to analize and develop digital solutions to traditional business. 
+
+### If you want to know about me <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/hmm.gif" width="34px" height="34px">
+
+🧰 I’m currently working with web languages how PHP, Node.js and React.
+
+📫 You talk to me from my email  **marcosbrito.dev@gmail.com** or [LinkedIn](https://www.linkedin.com/in/marcos-brito-webdev/).
+
+⚡ I love playing videogames, Rpg Game, basketball and listening music.
 
 <!--
 **deBritoMarcos/deBritoMarcos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
