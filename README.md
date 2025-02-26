@@ -2,7 +2,7 @@
 
 I'm **Marcos Brito**, a **Fullstack Developer** passionate about problem-solving, and tecnology. Today I'm specializing in **digital entrepreneurship** to analize and develop digital solutions to traditional business. 
 
-### If you want to know about me <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/hmm.gif" width="34px" height="34px">
+### If you want to know about me <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/hmm.gif" width="18px" height="18px">
 
 🧰 I’m currently working with web languages how PHP, Node.js and React.
 
