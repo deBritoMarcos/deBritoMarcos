@@ -6,9 +6,17 @@ I'm **Marcos Brito**, a **Fullstack Developer** passionate about problem-solving
 
 🧰 I’m currently working with web languages how PHP, Node.js and React.
 
-📫 You talk to me from my email  **marcosbrito.dev@gmail.com** or [LinkedIn](https://www.linkedin.com/in/marcos-brito-webdev/).
+📫 You talk to me from my email  **marcosbrito.dev@gmail.com** or **[LinkedIn](https://www.linkedin.com/in/marcos-brito-webdev/)**.
 
 ⚡ I love playing videogames, Rpg Game, basketball and listening music.
+
+### Languages ​​and tools I have worked with
+<a href="https://www.php.net/" target="_blank"> <img align="left" alt="PHP" height ="38px" src="assets/icons/php.svg"></a>
+<a href="https://codeigniter.com/" target="_blank"> <img align="left" alt="CodeIgniter" height ="38px" src="assets/icons/codeigniter.svg"></a>
+<a href="https://laravel.com/" target="_blank"> <img align="left" alt="Laravel" height ="38px" src="assets/icons/laravel.svg"></a>
+<a href="https://js.org/" target="_blank"> <img align="left" alt="Javascript" height ="38px" src="assets/icons/javascript.svg"></a>
+<a href="https://nodejs.org" target="_blank"> <img align="left" alt="Node Js" height ="38px" src="assets/icons/nodejs.svg"></a>
+<a href="https://expressjs.com/" target="_blank"> <img align="left" alt="Express Js" height ="38px" src="assets/icons/expressjs.svg"></a>
 
 <!--
 **deBritoMarcos/deBritoMarcos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
