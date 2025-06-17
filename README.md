@@ -1,6 +1,6 @@
 # Hello world! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="34px" height="34px">
 
-I'm **Marcos Brito**, a **Fullstack Developer** passionate about problem-solving, and tecnology. Today I'm specializing in **digital entrepreneurship** to analize and develop digital solutions to traditional business. 
+I'm **Marcos Brito**, a **Backend Developer** with +6 years developing systems, passionate about logic, and tecnology. Today I'm specializing in **Fullstack Development** to develop complete applications..
 
 ### If you want to know about me <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/hmm.gif" width="18px" height="18px">
 
