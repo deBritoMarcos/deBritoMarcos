@@ -1,6 +1,6 @@
 # Hello world! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="34px" height="34px">
 
-I'm **Marcos Brito**, a **Backend Developer** with +6 years developing systems, passionate about logic, and tecnology. Today I'm specializing in **Fullstack Development** to develop complete applications..
+I'm **Marcos Brito**, a **Backend Developer** with +6 years developing systems, passionate about logic, and tecnology. Currently, I'm improving my hard skills by studying and practicing **systems architecture** and **frontend frameworks**.
 
 ### If you want to know about me <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/hmm.gif" width="18px" height="18px">
 
@@ -8,7 +8,7 @@ I'm **Marcos Brito**, a **Backend Developer** with +6 years developing systems, 
 
 📫 You talk to me from my email  **marcosbrito.dev@gmail.com** or **[LinkedIn](https://www.linkedin.com/in/marcos-brito-webdev/)**.
 
-⚡ I love playing videogames, Rpg Game, basketball and listening music.
+⚡ I love playing videogames, RPG game, basketball and listening music.
 
 ### Languages ​​and tools I have worked with
 <a href="https://www.php.net/" target="_blank"> <img align="left" alt="PHP" height ="38px" src="assets/icons/php.svg"></a>
