@@ -1,22 +1,27 @@
-# Hello world! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="34px" height="34px">
+# Welcome! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="34px" height="34px">
 
-I'm **Marcos Brito**, a **Backend Developer** with +6 years developing systems, passionate about logic, and tecnology. Currently, I'm improving my hard skills by studying and practicing **systems architecture** and **frontend frameworks**.
+my_profile.json:
+```json
+{
+  "name": "Marcos Brito",
+  "occupations": ["Backend developer", "Fullstack developer"],
+  "age": 32,
+  "email": "marcosbrito.dev@gmail.com"
+  "linkedin": "https://www.linkedin.com/in/marcos-brito-webdev/",
+  "discord": "marcoswillianbrito"
+}
+```
 
 ### If you want to know about me <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/hmm.gif" width="18px" height="18px">
 
-🧰 I’m currently working with web languages how PHP, Node.js and React.
-
-📫 You talk to me from my email  **marcosbrito.dev@gmail.com** or **[LinkedIn](https://www.linkedin.com/in/marcos-brito-webdev/)**.
-
-⚡ I love playing videogames, RPG game, basketball and listening music.
-
-### Languages ​​and tools I have worked with
-<a href="https://www.php.net/" target="_blank"> <img align="left" alt="PHP" height ="38px" src="assets/icons/php.svg"></a>
-<a href="https://codeigniter.com/" target="_blank"> <img align="left" alt="CodeIgniter" height ="38px" src="assets/icons/codeigniter.svg"></a>
-<a href="https://laravel.com/" target="_blank"> <img align="left" alt="Laravel" height ="38px" src="assets/icons/laravel.svg"></a>
-<a href="https://js.org/" target="_blank"> <img align="left" alt="Javascript" height ="38px" src="assets/icons/javascript.svg"></a>
-<a href="https://nodejs.org" target="_blank"> <img align="left" alt="Node Js" height ="38px" src="assets/icons/nodejs.svg"></a>
-<a href="https://expressjs.com/" target="_blank"> <img align="left" alt="Express Js" height ="38px" src="assets/icons/expressjs.svg"></a>
+🧰 Languages and tools I've worked with:
+- **PHP** (Laravel, Codeigniter);
+- **NodeJs** (Express);
+- **Javascript** (React, VueJs 3, JQuery);
+- **Bootstrap**
+- **Relational Database** (MySql, PostgreSql, MariaDB);
+- **Non-Relational Database** (MongoDB, Redis);
+- Tests with **PHPUnit/Pest** and **Jest**
 
 <!--
 **deBritoMarcos/deBritoMarcos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
